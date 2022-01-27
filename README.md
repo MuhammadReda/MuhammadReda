@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadReda&hide=css&theme=dracula&layout=full&langs_count=10)](https://github.com/MuhammadReda)
+
 <!--
 **MuhammadReda/MuhammadReda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
