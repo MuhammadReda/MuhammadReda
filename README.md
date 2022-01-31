@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadReda&hide=css&theme=dark&layout=full&langs_count=10)](https://github.com/MuhammadReda)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadReda&hide=css&theme=github_dark&layout=full&langs_count=10)](https://github.com/MuhammadReda)
 
 
 #### Node.js AWS Lambda Image Resizer
-[![AWS Lambda Image Resizer](https://github-readme-stats.vercel.app/api/pin/?username=MuhammadReda&repo=nodejs-aws-lambda-image-resizer&theme=dark&show_owner=false)](https://github.com/MuhammadReda/nodejs-aws-lambda-image-resizer)
+[![AWS Lambda Image Resizer](https://github-readme-stats.vercel.app/api/pin/?username=MuhammadReda&repo=nodejs-aws-lambda-image-resizer&theme=github_dark&show_owner=false)](https://github.com/MuhammadReda/nodejs-aws-lambda-image-resizer)
 
 #### Android GCM
-[![Android GCM](https://github-readme-stats.vercel.app/api/pin/?username=MuhammadReda&repo=android-gcm&theme=dark&show_owner=false)](https://github.com/MuhammadReda/android-gcm)
+[![Android GCM](https://github-readme-stats.vercel.app/api/pin/?username=MuhammadReda&repo=android-gcm&theme=github_dark&show_owner=false)](https://github.com/MuhammadReda/android-gcm)
 
 <!--
 **MuhammadReda/MuhammadReda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
