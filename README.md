@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadReda&hide=css&theme=github_dark&layout=full&langs_count=10](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadreda&hide=css&theme=one_dark_pro))](https://github.com/MuhammadReda)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadreda&hide=css&theme=one_dark_pro)](https://github.com/MuhammadReda)
 
 
 #### Node.js AWS Lambda Image Resizer
